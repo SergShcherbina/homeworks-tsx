@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/homeworks-tsx/static/css/main.7be1ed0e.css",
+    "main.js": "/github.io/homeworks-tsx/static/js/main.4d4dbf2e.js",
+    "static/js/787.66cb4309.chunk.js": "/github.io/homeworks-tsx/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/github.io/homeworks-tsx/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/github.io/homeworks-tsx/index.html",
+    "main.7be1ed0e.css.map": "/github.io/homeworks-tsx/static/css/main.7be1ed0e.css.map",
+    "main.4d4dbf2e.js.map": "/github.io/homeworks-tsx/static/js/main.4d4dbf2e.js.map",
+    "787.66cb4309.chunk.js.map": "/github.io/homeworks-tsx/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be1ed0e.css",
+    "static/js/main.4d4dbf2e.js"
+  ]
+}
