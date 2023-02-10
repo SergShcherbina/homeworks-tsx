@@ -2,7 +2,7 @@ import React from 'react'
 import { AffairType, filterAffairs } from '../HW2'
 
 let initialState: AffairType[]
-
++
 beforeEach(() => {
     initialState = [
         { _id: 1, name: 'React', priority: 'high' },
