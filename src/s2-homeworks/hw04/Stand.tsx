@@ -79,7 +79,7 @@ const Stand = () => {
                 <div>
                     <SuperCheckbox
                         id={'hw4-super-checkbox-with-text'}
-                        checked={stateForAllCheckboxes}
+                        checked={!stateForAllCheckboxes}
                         onChangeChecked={setChecked}
                     >
                         some text
