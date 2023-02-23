@@ -36,6 +36,7 @@ const Greeting: React.FC<GreetingPropsType> = (
                 </span>
             </div>
 
+
             <div className={s.inputAndButtonContainer}>
                 <div>
                     <input
@@ -61,7 +62,7 @@ const Greeting: React.FC<GreetingPropsType> = (
                 </button>
             </div>
 
-            {!error && lastUserName &&  (
+            {!error && lastUserName && (
                 <div className={s.greeting}>
                     Привет <span id={'hw3-last-user'}>{lastUserName}</span>!
                 </div>
